@@ -991,12 +991,15 @@ nav > ul:nth-child(2) {
 }
 
 /*submenu full width*/
-
+.name-color{
+	color: #1D2469 !important;
+	font-weight: 600;
+}
 .submenu {
 	position: absolute;
 	width: 220px;
 	background: #1D2469;
-	right: -56px;
+	right: 40px;
 	top: 55px;
 	display: none;
 	z-index: 99;
