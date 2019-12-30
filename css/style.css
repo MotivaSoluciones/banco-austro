@@ -426,13 +426,13 @@ body {
 	font-size: 13px;
 	font-style: normal !important;
 	line-height: 18px;
-	padding: 10px 20px 6px;
+	padding: 6px 0px 6px;
 	text-transform: uppercase;
 	font-weight: 600;
 	color: #fff;
 	overflow: hidden;
 	position: relative;
-	min-width: 127px;
+	min-width: 110px;
 	text-align: center;
 	display: inline-block;
 	border-radius: 5px;
@@ -915,14 +915,14 @@ nav > ul > li {
 }
 
 nav > ul > li > a {
-	font-size: 13px;
+	font-size: 14px;
 	font-weight: 700;
 	color: #F3B633;
 	line-height: 60px;
 	text-transform: uppercase;
 	display: inline-block;
 	font-family: 'TextaRegular', sans-serif;
-	padding: 0 20px;
+	padding: 0 30px;
 }
 
 nav > ul > li > a.active {
@@ -2769,7 +2769,6 @@ footer .col-lg-2 img {
 
 footer#footer {
 	background-color: #EDEEF0;
-	padding: 10px 0;
 }
 
 footer#footer li {
@@ -2783,7 +2782,7 @@ footer#footer li a {
 	display: inline-block;
 	color: #1E2C59;
 	font-size: 15px;
-	padding: 8px 0;
+	padding: 5px 0;
 	position: relative;
 	line-height: 15px;
 	font-family: 'TextaRegular', sans-serif;
@@ -3414,7 +3413,6 @@ footer {
 }
 
 .product-slide-entry {
-	max-width: 270px;
 	margin: 0 auto;
 	margin-bottom: 50px;
 	text-align: left;
@@ -3481,11 +3479,6 @@ footer {
 	display: block;
 	position: relative;
 	overflow: hidden;
-	-webkit-box-shadow: 2px 2px 8px 0px rgba(197, 197, 197, 0.75);
-	-moz-box-shadow: 2px 2px 8px 0px rgba(197, 197, 197, 0.75);
-	-ms-box-shadow: 2px 2px 8px 0px rgba(197, 197, 197, 0.75);
-	-o-box-shadow: 2px 2px 8px 0px rgba(197, 197, 197, 0.75);
-	box-shadow: 2px 2px 8px 0px rgba(197, 197, 197, 0.75);
 }
 
 .product-slide-entry img {
@@ -3784,7 +3777,7 @@ footer {
 	display: block;
 	font-size: 16px;
 	line-height: 18px;
-	font-weight: 400;
+	font-weight: 600;
 	color: #C9002C;
 	margin-bottom: 8px;
 	margin-top: 10px;
@@ -4283,7 +4276,7 @@ body:not(.mobile) #content-block .sidebar-navigation .entry:hover .fa {
 .navigation-banner-content {
 	width: 57%;
 	padding: 0 50px 0 50px;
-	height: 300px;
+	height: 400px;
 	position: relative;
 }
 
@@ -8991,6 +8984,7 @@ body.error_404 {
 .shop-grid-item {
 	margin-bottom: 20px;
 	margin-top: 0;
+	padding: 0px;
 }
 
 .shop-grid-controls {
@@ -12913,3 +12907,8 @@ span.help-block {
 		margin-top: 60px;
 	}
 }
+
+.pad-0-40{
+	padding: 0px 40px !important;
+}
+
