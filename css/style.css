@@ -1,5 +1,6 @@
 body {
 	font-family: 'TextaRegular', sans-serif;
+	font-family: 'TextaBold', sans-serif;
 }
 
 html,
@@ -162,8 +163,8 @@ ul {
 }
 
 body {
-	font-family: 'TextaRegular', sans-serif;
-	font-weight: 400;
+	font-family: 'TextaBold', sans-serif;
+	font-weight: 700;
 	font-size: 14px;
 	line-height: 1;
 	background: #F7F7F8;
@@ -11054,7 +11055,7 @@ body.style-15 .bubbles span {
 
 body.style-15 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .subtitle {
 	color: #1E2C59;
-	font-weight: 300;
+	font-weight: 600;
 	text-transform: uppercase;
 	font-family: 'TextaRegular', sans-serif;
 }
@@ -11064,7 +11065,7 @@ body.style-15 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .title {
 	line-height: 50px;
 	text-transform: uppercase;
 	color: #1E2C59;
-	font-weight: 100;
+	font-weight: 600;
 	font-family: 'TextaRegular', sans-serif;
 }
 
@@ -12911,4 +12912,6 @@ span.help-block {
 .pad-0-40{
 	padding: 0px 40px !important;
 }
-
+.ftw-600{
+	font-weight: 600;
+}
