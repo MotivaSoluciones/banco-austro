@@ -4449,7 +4449,7 @@ body:not(.mobile) #content-block .sidebar-navigation .entry:hover .fa {
 		padding-left: 0;
 	}
 	#content-block .navigation-banner-content .cell-view img {
-		height: 45px;
+/*		height: 45px;*/
 		width: auto;
 	}
 	#content-block .navigation-banner-image {
