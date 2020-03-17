@@ -4450,7 +4450,7 @@ body:not(.mobile) #content-block .sidebar-navigation .entry:hover .fa {
 	}
 	#content-block .navigation-banner-content .cell-view img {
 /*		height: 45px;*/
-		width: auto;
+		width: 110px;
 	}
 	#content-block .navigation-banner-image {
 		opacity: 0.2;
