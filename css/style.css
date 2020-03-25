@@ -1,4 +1,3 @@
-
 html,
 body,
 div,
@@ -445,27 +444,32 @@ body {
 	background: #F3B633;
 	background-repeat: repeat-y;
 	background-size: contain;
+	color: #1D2469;
 }
 
+/*
 .button.style-10:hover {
 	background: #F3B633;
 	color: #fff;
 	border: 2px solid #F3B633;
 }
+*/
 
 .button.style-11,
 .button.style-3 {
-	background: #BBC1CB;
+	background: #C8002D;
 	color: #fff;
-	border: 2px solid #BBC1CB;
+	border: 2px solid #C8002D;
 }
 
+/*
 .button.style-11:hover,
 .button.style-3:hover {
 	color: #808080;
 	background: #f0f0f0;
 	border: 2px solid #BBC1CB;
 }
+*/
 
 .button.style-14:hover {
 	border: 2px solid #1D2469;
@@ -852,12 +856,14 @@ ol li:before {
 	text-align: right;
 }
 
+/*
 .pre-header p {
 	color: #fff;
 	text-transform: uppercase;
 	font-size: 16px;
 	letter-spacing: 0.5px;
 }
+*/
 
 header {
 	-webkit-backface-visibility: hidden;
@@ -986,10 +992,20 @@ nav > ul:nth-child(2) {
 }
 
 /*submenu full width*/
-.name-color{
-	color: #1D2469 !important;
-	font-weight: 600;
+
+.name-user {
+	margin-right: 150px;
+	width: 160px;
+	display: inline-block;
+	text-align: center;
+	font-size: 14px;
+	text-transform: uppercase;
 }
+
+.name-user a {
+	color: #fff;
+}
+
 .submenu {
 	position: absolute;
 	width: 220px;
@@ -4263,7 +4279,7 @@ body:not(.mobile) #content-block .sidebar-navigation .entry:hover .fa {
 .navigation-banner-content {
 	width: 57%;
 	padding: 0 50px 0 50px;
-	height: 400px;
+	height: 350px;
 	position: relative;
 }
 
@@ -4449,7 +4465,7 @@ body:not(.mobile) #content-block .sidebar-navigation .entry:hover .fa {
 		padding-left: 0;
 	}
 	#content-block .navigation-banner-content .cell-view img {
-/*		height: 45px;*/
+		/*		height: 45px;*/
 		width: 110px;
 	}
 	#content-block .navigation-banner-image {
@@ -12895,9 +12911,10 @@ span.help-block {
 	}
 }
 
-.pad-0-40{
+.pad-0-40 {
 	padding: 0px 40px !important;
 }
-.ftw-600{
+
+.ftw-600 {
 	font-weight: 600;
 }
