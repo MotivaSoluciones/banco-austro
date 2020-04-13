@@ -455,11 +455,17 @@ body {
 }
 */
 
-.button.style-11,
-.button.style-3 {
+.button.style-11{
 	background: #C8002D;
 	color: #fff;
 	border: 2px solid #C8002D;
+}
+
+
+.button.style-3 {
+	background: #1D2469;
+	color: #fff;
+	border: 2px solid #1D2469;
 }
 
 /*
@@ -2411,7 +2417,7 @@ header .icon-entry .text b {
 	}
 	.menu-button {
 		font-size: 25px;
-		color: #C8002D;
+		color: #1D2469;
 		cursor: pointer;
 		position: absolute;
 		left: 0;
