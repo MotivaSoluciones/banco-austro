@@ -12665,7 +12665,6 @@ option:hover {
 	margin-left: 0;
 	color: #a5a7aa;
 	font-weight: bold;
-	border: none;
 	border-radius: 4px;
 	width: 240px;
 }
@@ -12751,11 +12750,6 @@ option:hover {
 
 form div {
 	position: relative;
-}
-
-.login-box input {
-	border: none!important;
-	margin-bottom: 0;
 }
 
 .obl:after {
