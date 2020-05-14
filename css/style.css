@@ -12633,10 +12633,11 @@ option:hover {
 /*ESTILOS LOGIN*/
 
 .login {
-	background: url(../img/bg/bg-burbujas.png);
-	background-size: 72%;
-	background-position: bottom center;
-	background-repeat: no-repeat;
+	background: url(../img/bg/bg-login.png);
+    background-size: 70%;
+    background-position: center right;
+    background-repeat: no-repeat;
+    height: 650px;
 }
 
 .login-box {
