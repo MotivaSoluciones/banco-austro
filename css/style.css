@@ -455,7 +455,7 @@ body {
 }
 */
 
-.button.style-11{
+.button.style-11 {
 	background: #C8002D;
 	color: #fff;
 	border: 2px solid #C8002D;
@@ -12634,10 +12634,10 @@ option:hover {
 
 .login {
 	background: url(../img/bg/bg-login.png);
-    background-size: 70%;
-    background-position: center right;
-    background-repeat: no-repeat;
-    height: 650px;
+	background-size: 70%;
+	background-position: center right;
+	background-repeat: no-repeat;
+	height: 650px;
 }
 
 .login-box {
@@ -12918,4 +12918,10 @@ span.help-block {
 
 .ftw-600 {
 	font-weight: 600;
+}
+
+.logo-banco {
+	position: relative;
+	right: 515px;
+
 }
