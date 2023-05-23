@@ -1,20 +1,19 @@
-@font-face {
-	font-family: 'TextaRegular';
-	font-style: normal;
-	font-weight: normal;
-	src: local('TextaRegular'), url('../fonts/TextaRegular.otf') format('opentype');
-}
 
 @font-face {
-	font-family: 'TextaBook';
+	font-family: 'Assistant-Bold';
 	font-style: normal;
 	font-weight: normal;
-	src: local('TextaBook'), url('../fonts/TextaBook.otf') format('opentype');
+	src: local('Assistant-Bold'), url('../fonts/Assistant-Bold.ttf') format('truetype');
 }
-
 @font-face {
-	font-family: 'TextaBold';
+	font-family: 'Assistant-Regular';
 	font-style: normal;
 	font-weight: normal;
-	src: local('TextaBold'), url('../fonts/TextaBold.otf') format('opentype');
+	src: local('Assistant-Regular'), url('../fonts/Assistant-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Assistant-SemiBold';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Assistant-SemiBold'), url('../fonts/Assistant-SemiBold.ttf') format('truetype');
 }

@@ -133,7 +133,7 @@ button:focus {
 
 textarea,
 select {
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     font-weight: 300;
     -webkit-appearance: none;
     border-radius: 4px;
@@ -158,7 +158,7 @@ ul {
 }
 
 body {
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     font-size: 14px;
     line-height: 1;
     background: #F7F7F8;
@@ -417,7 +417,7 @@ body {
 }
 
 .button {
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     font-size: 12px;
     font-style: normal !important;
     line-height: 15px;
@@ -928,7 +928,7 @@ nav > ul > li > a {
     line-height: 60px;
     text-transform: uppercase;
     display: inline-block;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     padding: 0 30px;
 }
 
@@ -1703,7 +1703,7 @@ body:not(.mobile) .socials-box a:hover .fa {
     font-size: 18px;
     color: #3f454b;
     font-weight: 700;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
 }
 
 a.open-cart-popup {
@@ -2802,13 +2802,13 @@ footer#footer li a {
     padding: 5px 0;
     position: relative;
     line-height: 15px;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
 }
 
 footer h3 {
     text-transform: uppercase;
     margin-bottom: 10px;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     color: #1E2C59;
     font-size: 14px;
     margin-left: -16px;
@@ -4313,7 +4313,7 @@ body:not(.mobile) #content-block .sidebar-navigation .entry:hover .fa {
 }
 
 .navigation-banner-content .subtitle {
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     font-size: 16px!important;
     line-height: 20px;
     color: #1E2C59;
@@ -4326,7 +4326,7 @@ body:not(.mobile) #content-block .sidebar-navigation .entry:hover .fa {
 }
 
 .navigation-banner-content .title {
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     font-weight: 400;
     font-size: 70px;
     line-height: 50px;
@@ -4348,7 +4348,7 @@ body:not(.mobile) #content-block .sidebar-navigation .entry:hover .fa {
     font-size: 15px;
     line-height: 24px;
     color: #aaa;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     font-weight: 300;
     font-style: italic;
     margin-bottom: 15px;
@@ -4863,7 +4863,7 @@ body:not(.mobile) .hover-class-1:hover .hover-label {
     font-size: 60px;
     line-height: 55px;
     color: #779307;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     margin-bottom: 10px;
@@ -4989,19 +4989,19 @@ body.style-2 .navigation-banner-content .subtitle {
     font-size: 30px;
     color: #0f51a3;
     font-weight: 300;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     letter-spacing: -1px;
 }
 
 body.style-2 .navigation-banner-content .title {
     font-weight: 700;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     font-size: 60px;
     line-height: 60px;
 }
 
 body.style-2 .navigation-banner-content .description {
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     font-style: normal;
 }
 
@@ -5497,14 +5497,14 @@ body.style-4 .navigation-banner-content .subtitle {
     font-size: 20px;
     line-height: 24px;
     color: #a58d2d;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     font-weight: 600;
     letter-spacing: 2px;
     margin-bottom: 12px;
 }
 
 body.style-4 .navigation-banner-content .title {
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     font-weight: 700;
     font-size: 48px;
     line-height: 48px;
@@ -5832,7 +5832,7 @@ body.style-5 .button.style-4 {
     font-size: 24px;
     line-height: 24px;
     text-transform: uppercase;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     font-weight: 700;
     margin-bottom: 10px;
 }
@@ -5846,7 +5846,7 @@ body.style-5 .button.style-4 {
     font-size: 80px;
     line-height: 72px;
     text-transform: uppercase;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     font-weight: 700;
     margin-bottom: 5px;
 }
@@ -7427,7 +7427,7 @@ body.style-10 .product-slide-entry .subtitle:hover {
 .product-detail-box.desc span,
 .tabs-container .subtitles,
 .tabs-container.style-1 .tab-switcher {
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     margin-right: 5px;
     text-transform: uppercase;
     font-weight: 600;
@@ -9792,7 +9792,7 @@ body.error_404 {
     line-height: 40px;
     color: #333232;
     font-weight: 700;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     margin-bottom: 15px;
 }
 
@@ -9994,7 +9994,7 @@ body.error_404 {
     font-size: 27px;
     font-weight: 600;
     margin-bottom: 20px;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     color: #662480;
 }
 
@@ -10204,7 +10204,7 @@ header.type-4 .header-top:before {
         color: #CBCED5;
         text-transform: uppercase;
         font-weight: bold;
-        font-family: 'TextaRegular', sans-serif;
+        font-family: 'Assistant-Regular', sans-serif;
     }
     header.type-4 .header-top-entry .title .fa {
         color: #fff;
@@ -10227,17 +10227,17 @@ body.style-11 .navigation-banner-content .subtitle {
     font-size: 18px;
     color: #cdcdcd;
     text-transform: uppercase;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     letter-spacing: 3px;
 }
 
 body.style-11 .navigation-banner-content .title {
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     letter-spacing: 2px;
 }
 
 body.style-11 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .subtitle {
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     font-size: 14px;
     line-height: 22px;
     color: #fff;
@@ -10247,7 +10247,7 @@ body.style-11 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .subtitle {
 }
 
 body.style-11 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .title {
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     font-size: 44px;
     line-height: 44px;
     text-transform: uppercase;
@@ -10283,7 +10283,7 @@ body:not(.mobile).style-11 a.sale-entry:hover {
 }
 
 body.style-11 .sale-entry .sale-price {
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     letter-spacing: 2px;
 }
 
@@ -10338,7 +10338,7 @@ body.style-11 .mozaic-banners-wrapper.type-2 .banner-column {
     line-height: 24px;
     color: #fafafa;
     text-transform: uppercase;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     display: block;
     margin-bottom: 10px;
 }
@@ -10394,7 +10394,7 @@ body:not(.mobile) .color-text-widget:hover .description {
     font-size: 24px;
     line-height: 24px;
     color: #191e24;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     text-transform: uppercase;
     margin-bottom: 15px;
     display: block;
@@ -10419,7 +10419,7 @@ body.style-10 .column-article-entry {
 body.style-10 .column-article-entry .title {
     font-size: 22px;
     font-weight: 400;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
 }
 
 @media (max-width: 1199px) {
@@ -10497,7 +10497,7 @@ table.pasos td {
     line-height: 24px;
     color: #191e24;
     font-weight: 400;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
 }
 
 .tabs-container {
@@ -10508,7 +10508,7 @@ table.pasos td {
     font-size: 13px;
     float: none;
     display: inline-block;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
 }
 
 .tabs-left,
@@ -10529,7 +10529,7 @@ table.pasos td {
     color: #1D2469;
     font-weight: 600;
     font-size: 16px;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
 }
 
 .descuento {
@@ -10557,7 +10557,7 @@ table.pasos td {
 .internas-banner-content .subtitle {
     font-size: 20px;
     margin-bottom: 0;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
 }
 
 body.style-15 .navigation-banner-content .title,
@@ -10567,13 +10567,13 @@ body.style-15 .navigation-banner-content .title,
     color: #fff;
     text-transform: uppercase;
     font-weight: 100;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     letter-spacing: 0;
 }
 
 body.style-15 .navigation-banner-content .title {
     font-size: 38px;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     text-transform: uppercase;
     color: #003473;
 }
@@ -11035,7 +11035,7 @@ body.style-15 .navigation-banner-content .black .puntos {
     font-size: 50px;
     line-height: 50px;
     color: #fff;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     letter-spacing: 0;
 }
 
@@ -11065,7 +11065,7 @@ body.style-15 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .subtitle {
     color: #1E2C59;
     font-weight: 600;
     text-transform: uppercase;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
 }
 
 body.style-15 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .title {
@@ -11074,7 +11074,7 @@ body.style-15 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .title {
     text-transform: uppercase;
     color: #1E2C59;
     font-weight: 600;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
 }
 
 body.style-15 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .view {
@@ -11084,7 +11084,7 @@ body.style-15 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .view {
     background: #C8002D;
     text-transform: uppercase;
     font-style: normal;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     font-weight: 500;
     padding: 8px 20px;
 }
@@ -11597,7 +11597,7 @@ body:not(.mobile) .special-item-entry:hover > img:first-child {
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     text-align: center;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     font-weight: 700;
     font-size: 14px;
     color: #fff;
@@ -12595,7 +12595,7 @@ option:hover {
 }
 
 .popup-container {
-    font-family: 'TextaRegular', sans-serif
+    font-family: 'Assistant-Regular', sans-serif
 }
 
 .popup-container .alert_2,
@@ -12686,7 +12686,7 @@ option:hover {
     line-height: 6mm;
     font-size: 15px;
     color: #035f9c!important;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
 }
 
 @media (max-width: 991px) {
@@ -12790,7 +12790,7 @@ form div {
 .error-pass {
     text-align: left!important;
     color: #3f454b;
-    font-family: 'TextaRegular', sans-serif;
+    font-family: 'Assistant-Regular', sans-serif;
     line-height: 18px;
 }
 
